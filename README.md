@@ -4,7 +4,7 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&width=435&lines=Welcome+to+my+github+profile" alt="Typing SVG" />
 </p>
 
-# Hi there 👋 I'm Shivesh Tiwari
+# Hi there 👋 I'm Tanmoy Dutta
 ---
 
 
@@ -32,7 +32,7 @@
 
 - 🎯 Career Goal: To become a skilled Python Full Stack Developer and <strong>Data Engineer</strong>
 
-- 📫 How to reach me **shivesht066@gmail.com**
+- 📫 How to reach me **tanmoydutta0987654321@gmail.com**
 
   
   <div align="center">
