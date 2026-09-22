@@ -35,16 +35,8 @@
 - 📫 How to reach me **tanmoydutta0987654321@gmail.com**
 
   
-  <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmoy-Dutta-Coder&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6d28d9&point=ffffff" height="350"/>
 
-</div>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Tanmoy-Dutta-Coder&theme=tokyonight&hide_border=true&background=0d1117&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa"
-    width="60%" />
-</p>
 
 ---
 ### **🛠️ Technologies I Use**
